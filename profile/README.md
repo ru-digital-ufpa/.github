@@ -42,7 +42,7 @@ Para entrar em contato com a equipe de suporte do RU Digital UFPA, envie um e-ma
 
 ## Aviso
 
-Este aplicativo é um projeto de um aluno da Universidade Federal do Pará - UFPA, portanto não é oficial da Superintendência de Assistência Estudantil – SAEST/UFPA.
+Este aplicativo foi desenvolvido por um grupo de quatro estudantes da Universidade Federal do Pará - UFPA e não possui afiliação oficial com a Superintendência de Assistência Estudantil - SAEST/UFPA.
 
 ## Licença
 
