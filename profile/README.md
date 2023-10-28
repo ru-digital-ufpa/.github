@@ -38,7 +38,7 @@ Lembre-se de sempre manter uma comunicação clara e cordial com os membros da e
 
 ## Suporte
 
-Para entrar em contato com a equipe de suporte do RU Digital UFPA, envie um e-mail para prinako.dev@gmail.com.
+Para entrar em contato com a equipe de suporte do RU Digital UFPA, envie um e-mail para prinako.dev+rudigital@gmail.com.
 
 ## Aviso
 
